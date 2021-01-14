@@ -1,5 +1,5 @@
 # Serpent
-<h3>Anggota Kelompok 8</h3> <br>
+<h3>Anggota Kelompok 8</h3>
 <p>Imam Firdaus Dwimeianto (1904499)</p> 
 <p>M Fahcri (1908969)</p> 
 <p>Thariq Hafizhudin (1904601)</p> 
